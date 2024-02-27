@@ -6,4 +6,10 @@ My primary area of expertise are motion graphic design and VR/AR technology. At 
 
 ### This is exaple of real-time AR in studio. 
 It's 1:1 model of SpaceX Dragon capsule that was used to carry astronauts to ISS.
+
 ![cnn-prima_3d](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/4712e285-73d7-45dd-b1ed-47fc6da98ab8)
+
+### And explanatory motion graphics for studios LED screen.
+
+https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/1fd61470-a45c-4651-ae66-ea3d289cadad
+
