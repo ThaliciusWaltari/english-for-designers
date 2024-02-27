@@ -4,6 +4,6 @@ Well, first of all I'm nothing more than a bunch of atoms slammed together that 
 ## What exciting projects?
 My primary area of expertise are motion graphic design and VR/AR technology. At CNN Prima News I help design and develop new face of news graphics as well as LED screens in studio, also im responislbe for implementing AR technology. As if this wasn't enough, I also teach 3D visualisation at high school. In 2023 i was with my frined in Australia to help at Sky News Australia to implement AR technology to their studio.
 
-### This is exaple of using real-time AR in studio. 
+### This is exaple of real-time AR in studio. 
 It's 1:1 model of SpaceX Dragon capsule that was used to carry astronauts to ISS.
 ![cnn-prima_3d](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/4712e285-73d7-45dd-b1ed-47fc6da98ab8)
