@@ -4,12 +4,29 @@ Well, first of all I'm nothing more than a bunch of atoms slammed together that 
 ## What exciting projects?
 My primary area of expertise are motion graphic design and VR/AR technology. At CNN Prima News I help design and develop new face of news graphics as well as LED screens in studio, also im responislbe for implementing AR technology. As if this wasn't enough, I also teach 3D visualisation at high school. In 2023 i was with my frined in Australia to help at Sky News Australia to implement AR technology to their studio.
 
+## Enough of plain text, you are here for some pictures right?
+
 ### This is exaple of real-time AR in studio. 
 It's 1:1 model of SpaceX Dragon capsule that was used to carry astronauts to ISS.
 
 ![cnn-prima_3d](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/4712e285-73d7-45dd-b1ed-47fc6da98ab8)
 
-### And explanatory motion graphics for studios LED screen.
+### Explanatory motion graphics for Blue Origin launch.
 
 https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/1fd61470-a45c-4651-ae66-ea3d289cadad
+
+### VR visualisation for Preciosa Lightning.
+Most of my 3D visualisation are made in Unreal Engine 5, so my customers can experince 1:1 representation of their concepts in VR. The imersion of VR gives them much more better feedback that they need than regular static 3D renders or animated camera flythroughts.
+
+![Preciosa-frame-render](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/2ab90836-e6ba-41da-9190-a9b7b7a4ae61)
+
+### Even VSKK university where I study, hired me for some motion graphics.
+
+https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/40f2284a-b3e1-4969-a8f1-0896e2abef3f
+
+### Remember how i said that i like to drive and tune cars? I also photograph them!
+
+![DSC_8227](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/836641d7-4be6-43c1-ba85-f7e51b1c0080)
+![DSC_8451](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/c05ca3fd-a950-425e-b941-dd1f79fe8ee9)
+![DSC_8700](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/1433538f-4c7c-4e2b-835a-34d65c123789)
 
