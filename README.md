@@ -24,9 +24,13 @@ Most of my 3D visualisation are made in Unreal Engine 5, so my customers can exp
 
 https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/40f2284a-b3e1-4969-a8f1-0896e2abef3f
 
-### Remember how i said that i like to drive and tune cars? I also photograph them!
+### Remember how i said that i like to drive and tune cars? I also love to photograph them!
 
 ![DSC_8227](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/836641d7-4be6-43c1-ba85-f7e51b1c0080)
 ![DSC_8451](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/c05ca3fd-a950-425e-b941-dd1f79fe8ee9)
 ![DSC_8700](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/1433538f-4c7c-4e2b-835a-34d65c123789)
 
+### ...and maybe i sould also mention that I'm passionate 3D character artist.
+![Character-artist_Female-studyjpg](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/a2571e69-4513-4058-9e64-7def7fa80c3b)
+
+![Character-artist_Samantha copy](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/f4fa63bf-3dad-45a0-a8e0-c12550d31f07)
