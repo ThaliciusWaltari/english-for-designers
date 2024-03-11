@@ -27,7 +27,11 @@ Most of my 3D visualisation are made in Unreal Engine 5, so my customers can exp
 
 ![Preciosa-frame-render](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/2ab90836-e6ba-41da-9190-a9b7b7a4ae61)
 
-### Even VSKK university where I study, hired me for some motion graphics.
+### And another 3D visualisation.
+![Smutny_Jan_Kuchyn02-CC](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/15c76522-d937-400b-87ca-fbb1136ecf84)
+![Smutny_Jan_Exterier01-CC](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/b7e84b0d-d868-4236-ac96-138683b588ba)
+
+### I was also hired by VSKK university for some motion graphics.
 
 https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/40f2284a-b3e1-4969-a8f1-0896e2abef3f
 
