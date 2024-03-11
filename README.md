@@ -23,7 +23,8 @@ It's 1:1 model of SpaceX Dragon capsule that was used to carry astronauts to ISS
 https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/1fd61470-a45c-4651-ae66-ea3d289cadad
 
 ### Infographics for 9-11 tragedy.
-https://www.youtube.com/watch?v=7hFeEh7kN8w
+
+https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/59e3b331-3b8c-41b7-b7cf-1b5b2f507d93
 
 ### VR visualisation for Preciosa Lightning.
 Most of my 3D visualisation are made in Unreal Engine 5, so my customers can experince 1:1 representation of their concepts in VR. The imersion of VR gives them much more better feedback that they need than regular static 3D renders or animated camera flythroughts.
