@@ -4,7 +4,8 @@ Well, first of all I'm nothing more than a bunch of atoms slammed together that 
 
 I'm 24 old dude, who likes to work on exciting projects with firends, tune and drive cars, collect sythwave vinyls, go to gym and play World of Warcraft.
 
-In flesh i look like this (most of the time):
+In flesh i look something like this:
+*(I have beard now)*
 
 ![eIzQ5qs2_400x400](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/5cd5d42c-7127-415f-909e-22e7407c6e94)
 
