@@ -19,3 +19,6 @@ I use few emojis, mostly in conversations that i want to be more light and not t
 
 ### Complete sentences
 When I'm chatting with someone I always write complete sentences with all diacritics, first capital letter and dot or comma. And i especially hate when someone is not using diacritics. It can tell you that person is lazy, inpacient and doesn't care about how other perceive them. 
+
+![grammarnz_bot](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/025bf53f-288c-4281-b4b8-bcea57a10622)
+
