@@ -21,3 +21,6 @@ When I'm chatting with someone I always write complete sentences with all diacri
 
 ![grammarnz_bot](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/025bf53f-288c-4281-b4b8-bcea57a10622)
 
+### Memes
+Yeah memes, i use them a lot. I send memes to my boys a lot. I even comunicate via them. 
+
