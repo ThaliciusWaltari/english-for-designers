@@ -1,8 +1,10 @@
 # Voice, Tone, and Style
 ## Voice
 I always try to be **friendly and polite** as much as i can. I usually don't like when people are uncomfortable in conversations, so I always try to get them on same level of **openness, optimism and care-free** as myself. There are of course situations when i dont not care if someone is comfortable in conversation and this is mostly in situations **when i have to get my way**. I will find every argument just to d**estroy my opponent, assert dominance** in conversations that are crucial and make sure they know when i have **higher intellectual or informational ground**. 
+
 Than it's literally this kind of situation:
 ![200](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/0258b888-7ff7-456d-b4a1-3bfc05c2e64a)
+
 ## Tone
 
 ## Style
