@@ -21,7 +21,7 @@ As I mentioned above i always make sure that I'm frindly in conversation as much
 Yeah, when I'm in a heated conversation and have a better infromation, knowledge and understanding of specific problem I'm tough opponent and I go through skulls and bones just to win that conversation.
 ### Profesional
 Friendly or agresive, I always try to stay profeesional in conversations. Especially in a heated conversations I make sure is not personal and I'm not atacking the person but rather his believes and thoughts. (Sadly, a lot of people thinks that attacking ideas = attacking the person)
-###O pen-minded
+### Open-minded
 This stems not only from how profesional i try to be, but from my whole live and ideology. I'm open to conversations to any topic, even those which may be deemed as edgy, scandalous or taboos. I'm always open for someone to challenge my knowladge, believes and ideology and I'm always glad when someone does that as it is the only way how to better as a person.
 
 ## Style
