@@ -26,12 +26,26 @@ Oil platform or oil well extract crude oil, which is then transported by oil tan
 
 ### Daily driving ICEV
 To every car volume I have assigned a representative car from 2019 European market and its CO2 emissions [5]. “Medium” – Volkswagen Golf, 1.5 TSI – 108g/kg, “Mini” – Volkswagen up! 1.0 MPI – 100g/km, “large” – Ford Transit 2.0 EcoBlue – 172g CO2/km, “luxury” – BMW 750Li 4.4 L N63 V8 – 218g/km. Applying same formula as in 2.1 we can calculate ICEV’s average CO2/km.
+
 ![Screenshot 2024-04-30 114155](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/9c1aa6b6-5c84-48ac-80d9-02fc41aef52d)
 
 I can verify high accuracy of my calculations by comparing it with scientific research done by European Environment Agency [6], which states that average CO2 emissions of gasoline car produced in 2018 is 123,4 g/km and diesel car 121,5 g/km. Unlike my study EU’s use high precise data collected from database of all registered vehicles in EU.
-If we take into a consideration that driver in EU on average drive 11,300 km a year [7], then car produces on 1,333 tCO2 per year and 15,334 tCO2 for EU car average lifetime of 11,5 years [8]. We have got a good look into how much CO2 emissions ICEV produces from combustion – that is called direct emission. To be precise in final number, we must take into a consideration WTT emissions – indirect emissions. Study made by Auke Hoekstra for Innovation Origins shows that transporting and refining a gasoline produce additional 720 gCO2/l [10]. Fuel economy in Europe is 6.0l/100km on average [9] and if we multiply it with average kilometers driven, we get to number 1 883 liters of fuel per year. 
-720 × 1883 = 1,355,760 ≐1,356 〖tCO〗^2
+If we take into a consideration that driver in EU on average drive 11,300 km a year [7], then car produces on 1,333 tCO2 per year and 15,334 tCO2 for EU car average lifetime of 11,5 years [8]. We have got a good look into how much CO2 emissions ICEV produces from combustion – that is called direct emission. To be precise in final number, we must take into a consideration WTT emissions – indirect emissions. Study made by Auke Hoekstra for Innovation Origins shows that transporting and refining a gasoline produce additional 720 gCO2/l [10]. Fuel economy in Europe is 6.0l/100km on average [9] and if we multiply it with average kilometers driven, we get to number 1 883 liters of fuel per year.
+
+**720 × 1883 = 1,355,760 ≐1,356 〖tCO〗^2**
+
 Additional 1,35 tons of indirect CO2 emission per year is caused by WTT process. It increases emissions from daily driving by enormous 101,7 % to 2,689 tCO2 per year and 30,924 tCO2 for a car lifetime.
+
+### Daily driving BEV
+To be able to calculate CO2 emissions of BEVs we need to know how much CO2 emissions is produced for 1kWh in grid by each energy source and its share. This will be diverse across countries as their share of clean energy differs – lower clean energy share, higher the CO2 emissions. We also need to know energy consumption of a car, ICEV measure consumption in liters of fuel per 100 kilometers, however BEV measure consumption in watts per hour as they only drive on electricity.
+Most reliable source for this is European Environmental Agency, which does research into this subject of matter annually. EU-27 have median of 253 grams of CO2 emissions per kWh. Germany has 344 g/kW h, however nearly same sized Poland have 744 g/kWh, due to a high percentage of non-ecological sources of electricity, like coal. Czechia have 433 g/kWh, with nuclear energy share of 40,75% [12]. All electricity produced in Iceland and most produced in Norway comes from renewable sources. That is why Iceland’s electricity have zero emissions and Norway little as 18 g/kWh. From rest of the world, USA have 385 g/kWh [15], China 721 g/kWh [16] and Russia 400 g/kWh [17].
+Capacity of BEVs battery varies with size of a vehicle, ranging from 25 kWh to 110 kWh, with average of 60 kwh [13]. Average energy consumption for optimal road conditions (ideal, temperature, speed) is 202 Wh/km [14]. If we will travel with BEV for a whole year and manage drive European average of 11 300 km, we will need 2 282,6 kWh of energy and charge our battery 50 times.
+
+![bev emissions](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/d3b10bcf-081b-4bb3-8784-c91415d433b5)
+
+Interesting fact to mention: Lifetime emission of car in Norway are still around 34% lower than emissions per year for a car in Germany.
+
+
 
 
 
