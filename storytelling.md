@@ -8,6 +8,7 @@ To be clear, I’m quite petrolhead myself, I love loud, fast cars with modified
 But I will always strife for civilization to evolve and make advancements in technology. So i decided to do my own a research. 
 
 Am I double agent now?
+
 ![8oi20h](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/d0c2f7fb-fab9-4f3a-8073-81a25ee79312)
 
 If you dont want to read through all of this amateur scientific research just [skip to results.](https://github.com/ThaliciusWaltari/english-for-designers/blob/main/storytelling.md#final-sumarization)
