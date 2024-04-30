@@ -3,6 +3,7 @@ So there is something that has been on my mind lately and that even quite piss m
 The main part of those misinformation is that they are not eco friendly and they produce more **carbon dioxide** (thus having bigger **carbon footrpint** and contrubuting to **greenhouse effect**) than a combustion engine – mainly because energy itself is not clean in most countries and because production of battery and it’s recycling. 
 
 To be clear, I’m quite petrolhead myself, I love loud, fast cars with modified combustion engines, I even have one like that myself. Look how good and angry it looks.
+
 ![060919B5-FA94-4115-98AE-8F7143BF5CB6](https://github.com/ThaliciusWaltari/english-for-designers/assets/150806048/e5c3bba6-fa3e-4962-9fc6-59acbe3a3af7)
 
 But I will always strife for civilization to evolve and make advancements in technology. So i decided to do my own a research. 
