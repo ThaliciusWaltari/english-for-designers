@@ -65,6 +65,13 @@ ICEV production emissions are **5,9 tCO2**, BEV production emissions are **10,6 
 Yes, they have. If we would replace all ICEVs with BEVs instantly, all CO2 emissions emitted from cars would be effectively 40% lower. If we take into a consideration that it would probably stop industrial transport of crude oil, 15–40 % global CO2 emissions would have been cut [18]. 
 It is most important now than ever start shifting to BEVs, first especially in industrial transport, taxi services and delivery services. Many companies in those sectors already switched or are starting to switch as it is financially lucrative. Great shift in passenger cars should come after market introduces BEV for less than a $25 000 with at least 500-600km range to one charge. A lot of states is already using tax benefits if you buy BEV. Unfortunately, in Czechia support is quite low, as there is only benefit to road tax and free parking in a blue zone. In some countries BEVs already made it to top of charts – in United Kingdom, most sold car in 2020 was Tesla Model 3, same car was most sold in 2019 in Netherlands and Norway, where in mid-2020 sales of BEVs exceeded sales of ICEVs. The transformation to BEVs is unavoidable and must be quick, because climate change in this speed as it is now bears will have consequences.
 
+
+
+
+
+
+
+
 ## Used sources
 1. Carbon Footprint Ltd. Carbon Footprint. https://www.carbonfootprint.com
 2. Qinyu Qiaoa, Fuquan Zhao, Zongwei Liu, Shuhua Jiang, & Han Hao. (2017). Comparative Study on Life Cycle CO2 Emissions from the Production of Electric and Conventional Vehicles in China. ScienceDirect. https://www.sciencedirect.com
